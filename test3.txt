@@ -2,3 +2,4 @@ test3
 수정
 master
 rebasemaster
+rebasesquash
